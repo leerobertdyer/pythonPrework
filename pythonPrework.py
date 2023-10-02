@@ -16,7 +16,7 @@ def hello_name(user_name):
 # from 1-100 and returns nothing
 
 def first_odds():
-    x = range(2, 102, 2)
+    x = range(1, 100, 2)
     for num in x:
         print(num)
 
